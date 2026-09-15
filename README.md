@@ -41,7 +41,7 @@ Feito com carinho por **Amanda**
 ✗♡✗♡
 
 
-<img width=5% alt="image" src="https://github.com/user-attachments/assets/e6d5e0fd-e174-4635-93a0-a62178b8c646" />
+<img width=10% alt="image" src="https://github.com/user-attachments/assets/e6d5e0fd-e174-4635-93a0-a62178b8c646" />
 
 </div>
 </details>
