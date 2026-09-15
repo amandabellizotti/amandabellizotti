@@ -1,7 +1,7 @@
 <img width="100%" height="auto" alt="image" src="https://github.com/user-attachments/assets/6bc07614-cc1c-426e-bf1f-5c4d25815bc3" />
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=90208f&text=Amanda%20Bellizotti&descAlign=28&descAlignY=1&reversal=false&textBg=false&fontColor=ffff&fontSize=32&fontAlign=50&animation=fadeIn&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/apitype=waving&height=150&color=90208f&text=Amanda%20Bellizotti&descAlign=28&descAlignY=1&reversal=false&textBg=false&fontColor=ffff&fontSize=32&fontAlign=50&animation=fadeIn&fontAlignY=32"/>
 
 
 <div align= "center">
