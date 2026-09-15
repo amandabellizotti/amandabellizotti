@@ -40,7 +40,8 @@ Feito com carinho por **Amanda**
 
 ✗♡✗♡
 
-<img width="894" height="894" alt="image" src="https://github.com/user-attachments/assets/f5adda8d-9da9-440d-beae-2c3732d0cba5" />
+
+<img width=30% alt="image" src="https://github.com/user-attachments/assets/e6d5e0fd-e174-4635-93a0-a62178b8c646" />
 
 </div>
 </details>
