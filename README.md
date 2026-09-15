@@ -1,5 +1,4 @@
-<img width="750" height="300" alt="image" src="https://github.com/user-attachments/assets/04bd31af-d490-491c-b764-bd8cc7720c7b" />
-" />
+<img width=100% alt="image" src="https://github.com/user-attachments/assets/04bd31af-d490-491c-b764-bd8cc7720c7b" />
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=90208f&text=Amanda%20Bellizotti&descAlign=28&descAlignY=1&reversal=false&textBg=false&fontColor=ffff&fontSize=32&fontAlign=50&animation=fadeIn&fontAlignY=32"/>
